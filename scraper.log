@@ -1,0 +1,105 @@
+2026-10-01 16:41:23,469 - INFO - Scraper started
+2026-10-01 16:41:23,663 - INFO - Scraping page: https://books.toscrape.com/
+2026-10-01 16:41:29,278 - INFO - Found 20 books on page
+2026-10-01 16:41:29,298 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-2.html
+2026-10-01 16:41:34,235 - INFO - Found 20 books on page
+2026-10-01 16:41:34,349 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-3.html
+2026-10-01 16:41:37,720 - INFO - Found 20 books on page
+2026-10-01 16:41:37,734 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-4.html
+2026-10-01 16:41:41,373 - INFO - Found 20 books on page
+2026-10-01 16:41:41,481 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-5.html
+2026-10-01 16:41:45,134 - INFO - Found 20 books on page
+2026-10-01 16:41:45,282 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-6.html
+2026-10-01 16:41:48,799 - INFO - Found 20 books on page
+2026-10-01 16:41:48,813 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-7.html
+2026-10-01 16:41:52,211 - INFO - Found 20 books on page
+2026-10-01 16:41:52,230 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-8.html
+2026-10-01 16:41:55,720 - INFO - Found 20 books on page
+2026-10-01 16:41:55,730 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-9.html
+2026-10-01 16:41:59,299 - INFO - Found 20 books on page
+2026-10-01 16:41:59,311 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-10.html
+2026-10-01 16:42:03,215 - INFO - Found 20 books on page
+2026-10-01 16:42:03,247 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-11.html
+2026-10-01 16:42:07,882 - INFO - Found 20 books on page
+2026-10-01 16:42:07,896 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-12.html
+2026-10-01 16:42:11,910 - INFO - Found 20 books on page
+2026-10-01 16:42:11,957 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-13.html
+2026-10-01 16:42:15,602 - INFO - Found 20 books on page
+2026-10-01 16:42:15,618 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-14.html
+2026-10-01 16:42:18,964 - INFO - Found 20 books on page
+2026-10-01 16:42:18,975 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-15.html
+2026-10-01 16:42:23,304 - INFO - Found 20 books on page
+2026-10-01 16:42:23,313 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-16.html
+2026-10-01 16:42:26,470 - INFO - Found 20 books on page
+2026-10-01 16:42:26,484 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-17.html
+2026-10-01 16:42:29,996 - INFO - Found 20 books on page
+2026-10-01 16:42:30,012 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-18.html
+2026-10-01 16:42:33,345 - INFO - Found 20 books on page
+2026-10-01 16:42:33,353 - WARNING - Duplicate book skipped: The Star-Touched Queen
+2026-10-01 16:42:33,360 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-19.html
+2026-10-01 16:42:36,949 - INFO - Found 20 books on page
+2026-10-01 16:42:36,972 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-20.html
+2026-10-01 16:42:40,255 - INFO - Found 20 books on page
+2026-10-01 16:42:40,342 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-21.html
+2026-10-01 16:42:44,404 - INFO - Found 20 books on page
+2026-10-01 16:42:44,414 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-22.html
+2026-10-01 16:42:47,878 - INFO - Found 20 books on page
+2026-10-01 16:42:47,889 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-23.html
+2026-10-01 16:42:51,311 - INFO - Found 20 books on page
+2026-10-01 16:42:51,326 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-24.html
+2026-10-01 16:42:55,676 - INFO - Found 20 books on page
+2026-10-01 16:42:55,700 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-25.html
+2026-10-01 16:42:59,374 - INFO - Found 20 books on page
+2026-10-01 16:42:59,385 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-26.html
+2026-10-01 16:43:02,422 - INFO - Found 20 books on page
+2026-10-01 16:43:02,434 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-27.html
+2026-10-01 16:43:05,459 - INFO - Found 20 books on page
+2026-10-01 16:43:05,470 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-28.html
+2026-10-01 16:43:13,257 - INFO - Found 20 books on page
+2026-10-01 16:43:13,529 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-29.html
+2026-10-01 16:43:18,529 - INFO - Found 20 books on page
+2026-10-01 16:43:18,545 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-30.html
+2026-10-01 16:43:30,745 - ERROR - Failed to scrape https://books.toscrape.com/catalogue/page-30.html: HTTPSConnectionPool(host='books.toscrape.com', port=443): Read timed out. (read timeout=10)
+2026-10-01 16:43:35,749 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-30.html
+2026-10-01 16:43:38,887 - INFO - Found 20 books on page
+2026-10-01 16:43:38,898 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-31.html
+2026-10-01 16:43:42,473 - INFO - Found 20 books on page
+2026-10-01 16:43:42,485 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-32.html
+2026-10-01 16:43:45,909 - INFO - Found 20 books on page
+2026-10-01 16:43:45,921 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-33.html
+2026-10-01 16:43:49,322 - INFO - Found 20 books on page
+2026-10-01 16:43:49,334 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-34.html
+2026-10-01 16:43:52,507 - INFO - Found 20 books on page
+2026-10-01 16:43:52,519 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-35.html
+2026-10-01 16:43:55,856 - INFO - Found 20 books on page
+2026-10-01 16:43:55,868 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-36.html
+2026-10-01 16:43:59,075 - INFO - Found 20 books on page
+2026-10-01 16:43:59,088 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-37.html
+2026-10-01 16:44:02,724 - INFO - Found 20 books on page
+2026-10-01 16:44:02,735 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-38.html
+2026-10-01 16:44:06,121 - INFO - Found 20 books on page
+2026-10-01 16:44:06,136 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-39.html
+2026-10-01 16:44:09,400 - INFO - Found 20 books on page
+2026-10-01 16:44:09,472 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-40.html
+2026-10-01 16:44:14,300 - INFO - Found 20 books on page
+2026-10-01 16:44:14,312 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-41.html
+2026-10-01 16:44:17,583 - INFO - Found 20 books on page
+2026-10-01 16:44:17,593 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-42.html
+2026-10-01 16:44:20,980 - INFO - Found 20 books on page
+2026-10-01 16:44:21,081 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-43.html
+2026-10-01 16:44:24,384 - INFO - Found 20 books on page
+2026-10-01 16:44:24,395 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-44.html
+2026-10-01 16:44:28,069 - INFO - Found 20 books on page
+2026-10-01 16:44:28,082 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-45.html
+2026-10-01 16:44:31,653 - INFO - Found 20 books on page
+2026-10-01 16:44:31,665 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-46.html
+2026-10-01 16:44:35,130 - INFO - Found 20 books on page
+2026-10-01 16:44:35,140 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-47.html
+2026-10-01 16:44:38,575 - INFO - Found 20 books on page
+2026-10-01 16:44:38,586 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-48.html
+2026-10-01 16:44:42,276 - INFO - Found 20 books on page
+2026-10-01 16:44:42,290 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-49.html
+2026-10-01 16:44:45,531 - INFO - Found 20 books on page
+2026-10-01 16:44:45,542 - INFO - Scraping page: https://books.toscrape.com/catalogue/page-50.html
+2026-10-01 16:44:49,117 - INFO - Found 20 books on page
+2026-10-01 16:44:49,135 - INFO - Scraper finished. Total books collected: 999
